@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Vijay. I'm a fullstack developer.
+My name's Vijay. I'm a software engineer.
 
 I like making websites, APIs, and chatbots 🤖
 
