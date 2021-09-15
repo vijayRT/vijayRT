@@ -8,4 +8,4 @@ My primary stack is Vue-Express-MongoDB. I've also used React and React Native f
 
 You can find me at the following places:
 * https://www.linkedin.com/in/vijayrajasekar96/
-* https://twitter.com/CrowNoseFear
+* https://twitter.com/vijayRT
