@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name's Vijay. I'm a software engineer.
+My name's Vijay. I'm a software engineer with `new Date().getFullYear() - 2017` years of experience.
 
-I like making websites, APIs, and chatbots 🤖
+I love writing clean, modular, code that follows functional programming paradigms.
 
-My primary stack is Vue-Express-MongoDB. I've also used React and React Native for some projects, and I've been experimenting with Flutter lately. 
+I primarily build APIs and websites using Typescript. I have significant experience with Vue 2 and 3, Nuxt, React, and Next.js.
 
 You can find me at the following places:
 * https://www.linkedin.com/in/vijayrajasekar96/
