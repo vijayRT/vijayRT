@@ -6,6 +6,5 @@ I love writing clean, modular, code that follows functional programming paradigm
 
 I primarily build APIs and websites using Typescript. I have significant experience with Vue 2 and 3, Nuxt, React, and Next.js.
 
-You can find me at the following places:
-* https://www.linkedin.com/in/vijayrajasekar96/
-* https://twitter.com/kronosfear
+You can find me on ~~the cursed website~~ Linkedin at https://www.linkedin.com/in/vijayrajasekar96/
+
